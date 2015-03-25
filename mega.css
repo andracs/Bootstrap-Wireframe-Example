@@ -69,3 +69,24 @@
         padding: 3px 15px !important;
     }
 }
+
+.jumbotron {
+    float: right;
+    margin: 10px;
+    background: #CCC;
+    background-size: auto;
+}
+
+.jumbotron h1 {
+    color: white;
+}
+
+.navbar,
+.navbar-brand {
+    font-size: 21px;
+    font-weight: 200;
+}
+
+.navbar-brand {
+    font-weight: bolder
+}
