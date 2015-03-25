@@ -10,4 +10,4 @@ Boostrap YAMM plugin - http://geedmo.github.io/yamm3/
 Lecture notes:
 http://goo.gl/vUA3TW
 
-By Anrás Ács, anac@easj.dk
+By András Ács, anac@easj.dk
