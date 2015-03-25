@@ -1,4 +1,13 @@
 # Bootstrap-Wireframe-Example
-Bootstrap based wireframe example made for an information architecture course @ zibat.dk
+https://github.com/andracs/Bootstrap-Wireframe-Example
 
-anac@easj.dk
+This Bootstrap based wireframe example is made for an information architecture course @ zibat.dk
+
+I have used the following building blocks:
+Default bootstrap large Dropdown - http://bootsnipp.com/snippets/featured/large-dropdown-menu 
+Boostrap YAMM plugin - http://geedmo.github.io/yamm3/ 
+
+Lecture notes:
+http://goo.gl/vUA3TW
+
+By Anrás Ács, anac@easj.dk
